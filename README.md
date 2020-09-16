@@ -3,7 +3,7 @@
 1. Forkar o respositório fonte
 2. Clonar o repositório do seu github para sua máquina: `git clone url-do-repositorio-clonado` (no seu git)
 3. Verificar os repositórios aos quais você está conectada localmente: `git remote -v`
-4. Conectar o repositório com a fonte: `git remote add upstream https://github.com/reprograma/T9-cvs.git` (não é o seu repositório)
+4. Conectar o repositório com a fonte: `git remote add upstream https://github.com/reprograma/t9-curriculos.git` (não é o seu repositório)
 5. Conferir se tá tudo certo...
 6. Criar branch: `git checkout -b nome-da-sua-branch`
 7. Na pasta `students` abrir o arquivo com seu nome e alterar apenas as informações necessárias e salvar o arquivo
